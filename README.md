@@ -14,5 +14,6 @@ Coded a JavaScript code to generate random characters to create a random passwor
 sabinasiete@gmail.com
 
 ## Screenshot
+
 ![screenshot](assets/passwordgen.png)
 https://unisabi.github.io/Password-Gen/
