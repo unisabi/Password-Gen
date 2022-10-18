@@ -18,5 +18,4 @@ sabinasiete@gmail.com
 ## Screenshot
 
 ![screenshot](assets/images/passwordgen.png)
-
 https://unisabi.github.io/Password-Gen/
